@@ -1,0 +1,7 @@
+provider-endpoints:
+    some-provider-get: /some/endpoint
+    some-provider-post: /some/other/endpont
+
+cron:
+  every-hour: '0 0 * * * *'
+
